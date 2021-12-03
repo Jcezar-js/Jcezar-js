@@ -1,7 +1,7 @@
 ### Saudações! Meu nome é Julio Cezar 👋
 
 - 🔭 Hoje estou trabalhando como estagiário na Celepar
-- 🌱 Estou estudando Javascript C# e Angular
+- 🌱 Estou estudando Javascript
 - 📫 Entre em contato comigo pelo E-mail: julio.filho1@hotmail.com		
 
 <!-- Git stats -->
