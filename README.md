@@ -1,6 +1,6 @@
 ### Saudações! Meu nome é Julio Cezar 👋
 
-- 🔭 Hoje estou trabalhando como estagiário na Celepar
+- 🔭 Hoje estou trabalhando como estagiário na ConnectPlug (Localweb)
 - 🌱 Estou estudando Javascript
 - 📫 Entre em contato comigo pelo E-mail: julio.filho1@hotmail.com		
 
