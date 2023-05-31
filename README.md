@@ -2,7 +2,7 @@
 
 - 🧑‍💼 Experiências: Celepar / ConnectPlug
 - 🔭 Hoje estou trabalhando como Técnico de informática na ConnectPlug (Localweb)
-- 🌱 Estou estudando Javascript e Java (JSP)
+- 🌱 Estou estudando Javascript, java e linux
 - 📫 Entre em contato comigo pelo E-mail ou Whatsapp (atalhos abaixo) 		
 
 <!-- Git stats -->
