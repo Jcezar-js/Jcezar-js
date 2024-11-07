@@ -1,9 +1,5 @@
 ### Saudações! Meu nome é Julio Cezar 👋
-
-- 🧑‍💼 Experiências: Celepar / ConnectPlug
-- 🔭 Hoje estou trabalhando como Técnico de informática na ConnectPlug (Localweb)
-- 🌱 Estou estudando Javascript, java e linux
-- 📫 Entre em contato comigo pelo E-mail ou Whatsapp (atalhos abaixo) 		
+	
 
 <!-- Git stats -->
 <div align="center">
