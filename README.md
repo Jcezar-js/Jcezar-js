@@ -1,28 +1,25 @@
-### Saudações! Meu nome é Julio Cezar 👋
-	
+# Hi 👋, I'm Julio Cezar Siqueira Filho
 
-<!-- Git stats -->
-<div align="center">
-  <a href="https://github.com/Jcezar-js">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jcezar-js&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcezar-js&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-	
-<!-- Icons languages -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ic-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ic-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" alt="Ic-Linux" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="right" alt="GIF-solaire" height="150"src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif">
-</div>
-	<br>
-	
-<!--Social -->
-<div> 
-	<a href="https://www.instagram.com/juliocezar_siq/?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=FFFFFF&style=For-the-badge" alt="badge sample"/></a>	
-	<a href = "mailto:julio.filho1@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0072C6?logo=Microsoft%20Outlook&logoColor=FFFFFF&style=For-the-badge" alt="badge sample"></a>
-	<a href="https://wa.me/55041987998471?text=Olá%20Julio!%20" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-25D366?logo=WhatsApp&logoColor=FFFFFF&style=For-the-badge" alt="badge sample"></a>
-	<a href="https://www.linkedin.com/in/julio-cezar-siqueira-filho-51b963172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=FFFFFF&style=For-the-badge" alt="badge sample"/></a> 
-	 
-![Snake animation](https://github.com/Jcezar-js/Jcezar-js/blob/output/github-contribution-grid-snake.svg)
-</div>
+### Praising the Sun & Coding in TypeScript ☀️ | Linux User
+
+- 🔭 I'm currently working on **A management dashboard for a Joinery (Woodworking Shop) with E-commerce integration.**
+
+- 🌱 I'm currently learning **Backend architecture, API Restful standards and NoSQL Databases (MongoDB).
+Advanced Node.js patterns and System Architecture.**
+
+- 📫 How to reach me **julio.filho1@hotmail.com**
+
+- ⚡ Fun fact **I like bread.... a lot.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Jcezar-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jcezar-js" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/julio-cezar-siqueira-filho-51b963172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julio-cezar-siqueira-filho-51b963172/" height="30" width="40" /></a>
+<a href="https://hackerrank.com/https://www.hackerrank.com/profile/julio_filho1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/julio_filho1" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jcezar-js&" alt="Jcezar-js" /></p>
+
