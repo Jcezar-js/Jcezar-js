@@ -15,7 +15,7 @@ Advanced Node.js patterns and System Architecture.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Jcezar-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jcezar-js" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/julio-cezar-siqueira-filho-51b963172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julio-cezar-siqueira-filho-51b963172/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/julio-cezar-siqueira-filho-51b963172/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julio-cezar-siqueira-filho-51b963172/" height="30" width="40" /></a>
 <a href="https://hackerrank.com/https://www.hackerrank.com/profile/julio_filho1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/julio_filho1" height="30" width="40" /></a>
 </p>
 
